@@ -1,0 +1,11 @@
+{
+  "name": "skyp",
+  "version": "1.0.0",
+  "description": "asdsadsa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manoj",
+  "license": "ISC"
+}
